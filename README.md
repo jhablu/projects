@@ -1,2 +1,3 @@
 # projects
-i am a begineer and i have I have creaetd some website frontend layout using html and css
+I am a beginner, learning web development
+this card can be used as an invitation, birthday invitation, or thank you card created using HTML and CSS.
